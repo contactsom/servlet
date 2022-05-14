@@ -1,0 +1,44 @@
+Web Service :
+Http Method:
+	1.GET
+	2.POST- create/add the data
+	3.PUT- update the data
+	4.DELETE 
+	
+	GET- doGet
+	POST- doPost
+	PUT- doPut
+	DELETE- deDelete
+	
+	URL:
+	http://localhost:8080/Day-7.1/
+	http://localhost:8080/Day-7.1/myStudentServlet
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

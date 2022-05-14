@@ -1,0 +1,22 @@
+Servlet can be creadted in three way :
+	1. servlet
+	2. GenericServlet
+	3. HttpServlet*
+	
+	
+	try
+	catch
+	finally
+	
+	1. opening the connection & resource
+	2. ....
+	3. closing the resources  
+	
+	http://localhost:8080/Day6/Hello
+	
+	Execution flow of Servlet :
+	1. Web.xml is getting loaded . web.xml is also called as deployement descripter .
+	2. From the web.xml servlet is getting initialized 
+	3. 
+	
+	
